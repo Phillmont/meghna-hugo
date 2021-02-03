@@ -1,6 +1,6 @@
 +++
 email = "eduardo.martinez@correo.com"
-image = ""
+image = "/images/instructor-lalo.jpg"
 title = "Eduardo Martínez"
 [[social]]
 icon = "facebook"
