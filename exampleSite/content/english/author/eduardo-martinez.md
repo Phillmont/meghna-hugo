@@ -9,7 +9,7 @@ link = "#"
 icon = "ti-twitter-alt"
 link = "#"
 [[social]]
-icon = "Instagram"
-link = ""
+icon = "ti-github"
+link = "#"
 
 +++
