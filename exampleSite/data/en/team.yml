@@ -34,12 +34,13 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Michael Jonson
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
+  - name: Phill Montlar
+    image_webp: "/images/instructor-felipe.jpeg"
+    image: "/images/instructor-felipe.jpeg"
     designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: Desarrollador Web, especializado en el uso de tecnologías de innovación
+      como JamStack, Hugo, Forestry y Netlify, especializado en cometer errores donde
+      nadie podría cometerlos y crear bugs donde es imposible crearlos.
     social:
     - icon: ti-facebook
       link: "#"
