@@ -6,8 +6,8 @@ title = "Eduardo Martínez"
 icon = "ti-facebook"
 link = "#"
 [[social]]
-icon = "Twitter"
-link = ""
+icon = "ti-twitter-alt"
+link = "#"
 [[social]]
 icon = "Instagram"
 link = ""
