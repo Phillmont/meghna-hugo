@@ -4,7 +4,7 @@ team:
   title: Our Team
   team_member:
   - name: Nino Canun
-    image_webp: images/team/team-1.webp
+    image_webp: "/images/instructor-nino.png"
     image: "/images/instructor-nino.png"
     designation: CEO/Founder
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
