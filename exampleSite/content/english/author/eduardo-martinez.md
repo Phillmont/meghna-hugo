@@ -3,8 +3,8 @@ email = "eduardo.martinez@correo.com"
 image = "/images/instructor-lalo.jpg"
 title = "Eduardo Martínez"
 [[social]]
-icon = "facebook"
-link = ""
+icon = "ti-facebook"
+link = "#"
 [[social]]
 icon = "Twitter"
 link = ""
