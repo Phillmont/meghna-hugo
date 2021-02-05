@@ -104,7 +104,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
-logo = "/images/logo-gamm-soft.jpg"
+logo = "/images/logo-gammsoft.png"
 post_share = true
 [params.cookies]
 enable = false
