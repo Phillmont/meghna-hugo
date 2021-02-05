@@ -16,3 +16,4 @@ icon = "ti-github"
 link = "#"
 
 +++
+Desarrollador de Software
